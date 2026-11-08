@@ -17,6 +17,7 @@
 - [Security / Crypto](#security--crypto)
 - [Text Processing](#text-processing)
 - [Code Quality](#code-quality)
+- [End-to-End Testing](#end-to-end-testing)
 - [API Testing](#api-testing)
 - [Git Tools](#git-tools)
 - [Terminal Tools](#terminal-tools)
@@ -50,6 +51,10 @@
 - [shellcheck](https://github.com/koalaman/shellcheck) - A static analysis tool for shell scripts.
 - [prettier](https://github.com/prettier/prettier) - An opinionated code formatter supporting many languages.
 - [eslint](https://github.com/eslint/eslint) - Find and fix problems in your JavaScript code.
+
+## End-to-End Testing
+
+- [agent-qa](https://vostride.com) - Natural-language web, Android and iOS QA with persistent memidex memory, validated self-improvement, and step/screenshot evidence; early-stage, FSL-1.1-ALv2 competing-use restrictions, separate model/infrastructure costs.
 
 ## API Testing
 
